@@ -46,7 +46,6 @@
     "patchRelease": "npm install & gulp patchRelease",
     "featureRelease": "npm install & gulp featureRelease",
     "majorRelease": "npm install & gulp majorRelease",
-    "preRelease": "npm install & gulp preRelease",
-	"start": "npm install & gulp build"
+    "preRelease": "npm install & gulp preRelease"
   }
 }
